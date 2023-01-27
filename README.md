@@ -26,10 +26,10 @@
  ## "Quest" Mob app
  
 <p float="left">
-  <img src="./_images/quest/quest_1.png" alt="Trading app" style="width:200px;"/>
-  <img src="./_images/trading_app/app_2.png" alt="Trading app" style="width:200px;"/>
-  <img src="./_images/trading_app/app_3.png" alt="Trading app" style="width:200px;"/>
-  <img src="./_images/trading_app/app_4.png" alt="Trading app" style="width:200px;"/>
+  <img src="./_images/quest/quest_1.png" alt="Quest app" style="width:200px;"/>
+  <img src="./_images/quest/quest_2.png" alt="Quest app" style="width:200px;"/>
+  <img src="./_images/quest/quest_3.png" alt="Quest app" style="width:200px;"/>
+  <img src="./_images/quest/quest_4.png" alt="Quest app" style="width:200px;"/>
 </p>
 
 
