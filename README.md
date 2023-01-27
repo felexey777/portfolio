@@ -18,7 +18,7 @@
 
  ### trading project Backend
 <p float="left">
-  <img src="./_images/trading_app/app_1.png" alt="Trading app" style="width:200px;"/>
+  <img src="./_images/trading_app/trading_BE.png" alt="Trading BE" style="width:1000px;"/>
 </p>
 
 
