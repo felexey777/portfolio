@@ -7,7 +7,9 @@
  - [Fork of SSE for Adonis.js](https://github.com/felexey777/adonis-sse)
  - [All my repositories are here](https://github.com/felexey777?tab=repositories)
  
- ### trading project Mob app
+ ## My last project
+ 
+ ### "Trading" Mob app
 <p float="left">
   <img src="./_images/trading_app/app_1.png" alt="Trading app" style="width:200px;"/>
   <img src="./_images/trading_app/app_2.png" alt="Trading app" style="width:200px;"/>
@@ -16,7 +18,7 @@
   <img src="./_images/trading_app/app_5.png" alt="Trading app" style="width:200px;"/>
 </p>
 
- ### trading project Backend
+ ### "Trading" Backend
 <p float="left">
   <img src="./_images/trading_app/trading_BE.png" alt="Trading BE" style="width:1000px;"/>
 </p>
